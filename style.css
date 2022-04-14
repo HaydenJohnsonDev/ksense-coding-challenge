@@ -1,0 +1,22 @@
+/* Also using twitter bootstrap v4.5 for quick easy styling */
+h1, h2, p {
+    color: white;
+}
+
+header p {
+    color: white;
+}
+
+header, footer {
+    padding: 30px;
+    
+    background-color: black;
+}
+
+.header-title {
+    align-items: center;
+}
+
+footer > p {
+    text-align: center;
+}
