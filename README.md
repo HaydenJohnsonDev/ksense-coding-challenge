@@ -2,7 +2,7 @@
 
 Thank you so much for the opportunity to attempt this development coding challenge.
 
-to view to view the live version of the project, visit:
+To view the live version of the project, visit:
 https://ksense-coding-challenge-haydenjohnson.vercel.app/
 
 the prompt:
